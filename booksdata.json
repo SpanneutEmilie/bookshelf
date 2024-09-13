@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title" : "La fin des temps",
+      "author": "Murakami",
+      "year": "2019",
+      "summarize": "Résumé de la fin des temps",
+      "category" : "roman",
+      "Poster": "https://servimg.eyrolles.com/static/media/6540/9782264076540_internet_b400x400.jpg"
+    },
+    {
+        "id" :2,
+        "title": "Les ignorants",
+        "author": "Etienne Davodeau",
+        "year": "2019",
+        "summarize": "vin + BD",
+        "category" : "BD",
+        "Poster": "https://static.fnac-static.com/multimedia/Images/FR/NR/bf/4a/33/3361471/1540-0/tsp20191030070612/Les-ignorants.jpg"
+      }
+   
+  ]
